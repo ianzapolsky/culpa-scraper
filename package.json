@@ -1,0 +1,10 @@
+{
+  "name"    : "culpa-scraper",
+  "version" : "0.0.1",
+  "main"    : "scraper.js",
+  "author"  : "ianzapolsky",
+  "dependencies" : {
+    "request" : "latest",
+    "cheerio" : "latest"
+  }
+}
