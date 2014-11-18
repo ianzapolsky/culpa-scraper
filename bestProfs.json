@@ -1,0 +1,5257 @@
+[
+    {
+        "name": "Absi, Ouijdane",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Adil, Azfar (TA)",
+        "dept": "Physics",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ahsan, Sonia",
+        "dept": "Anthropology",
+        "nugget": "gold"
+    },
+    {
+        "name": "Alden, Jenna (TA)",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Amann, Elizabeth",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Aufrichtig, Michael",
+        "dept": "Physical Education",
+        "nugget": "gold"
+    },
+    {
+        "name": "Baics, Gergely",
+        "dept": "Urban Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Barnett, Robert",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "gold"
+    },
+    {
+        "name": "Baudry, Berenice",
+        "dept": "French",
+        "nugget": "gold"
+    },
+    {
+        "name": "Bauman, Rebecca",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "Beck, Karin",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Beneduce, Felice",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "Benson, Amy",
+        "dept": "Writing",
+        "nugget": "gold"
+    },
+    {
+        "name": "Bentancor, Orlando",
+        "dept": "First-Year Seminars",
+        "nugget": "gold"
+    },
+    {
+        "name": "Buchan, Mark",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Callahan, Daniel",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Catterson, Lynn",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Charles, Collomia",
+        "dept": "Classics",
+        "nugget": "gold"
+    },
+    {
+        "name": "Colgrove, James",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Conrad, Jessamyn",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Cruz, Mateo",
+        "dept": "Psychology",
+        "nugget": "gold"
+    },
+    {
+        "name": "Dames, Nicholas",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Deodatis, George",
+        "dept": "Mechanical Engineering",
+        "nugget": "gold"
+    },
+    {
+        "name": "Dohrn, Zayd",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Douglas, Ann",
+        "dept": "Film",
+        "nugget": "gold"
+    },
+    {
+        "name": "Edwards, Brent",
+        "dept": "English and Comparative Literature",
+        "nugget": "gold"
+    },
+    {
+        "name": "Engel, Nicholas (TA)",
+        "dept": "Philosophy",
+        "nugget": "gold"
+    },
+    {
+        "name": "Fruehauf, Tina",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Fucci, Robert",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Gamber, John",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Garton, Bradford",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Gibney, Brian",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "gold"
+    },
+    {
+        "name": "Gray, Erik",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Griffin, Farah",
+        "dept": "English and Comparative Literature",
+        "nugget": "gold"
+    },
+    {
+        "name": "Gurna, Elia",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "gold"
+    },
+    {
+        "name": "Gutkin, David",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Guy, Gary Michael",
+        "dept": "Mathematics",
+        "nugget": "gold"
+    },
+    {
+        "name": "Hamer, Hendrik",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Hamilton, Saskia",
+        "dept": "English and Comparative Literature",
+        "nugget": "gold"
+    },
+    {
+        "name": "Hayman, Emily",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Hiles, Karen",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Howley, Joseph",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Huback, Ana Paula",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Hughes, Ivana",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Johnson, Eleanor",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Kasdorf, Katherine",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Katznelson, Ira",
+        "dept": "Political Science",
+        "nugget": "gold"
+    },
+    {
+        "name": "Kittay, David",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Kreitman, Rina",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Lawrence, Jenna",
+        "dept": "Ecology, Evolution, and Environmental Biology",
+        "nugget": "gold"
+    },
+    {
+        "name": "Legassie, Shayne",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Lependorf, Jeffrey",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Llopis-Garcia, Reyes",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Madigan, David",
+        "dept": "Statistics",
+        "nugget": "gold"
+    },
+    {
+        "name": "Marange, Celine",
+        "dept": "French",
+        "nugget": "gold"
+    },
+    {
+        "name": "Martin, Severine",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Mendelsohn, Susan",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Mendelson, Cheryl",
+        "dept": "Philosophy",
+        "nugget": "gold"
+    },
+    {
+        "name": "Miller, Robert",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Monroy, Liza",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Muller, Jill",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Murphy, Kevin",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Nail, Ashley",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Negron-Muntaner, Frances",
+        "dept": "Latino Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Nouhi, Youssef",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Nusbaum, Juliet (TA)",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "O'Connell, David (TA)",
+        "dept": "Political Science",
+        "nugget": "gold"
+    },
+    {
+        "name": "Olson, Kristina",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "Padilla, George",
+        "dept": "Physical Education",
+        "nugget": "gold"
+    },
+    {
+        "name": "Park, Peter (TA)",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "gold"
+    },
+    {
+        "name": "Pazzaglini, Peter",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Pedersen, Susan",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Petrovic, Ana",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Phillips, Sarah",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Pizzigoni, Caterina",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Pluta, Samuel",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Pouncey, Peter",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Rand, Archie",
+        "dept": "Visual Arts",
+        "nugget": "gold"
+    },
+    {
+        "name": "Rodney, Mariel",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Rosales-Varo, Francisco",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Rosenau, Luke",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "Rounds, Carol",
+        "dept": "Italian",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ruffini, Giovanni",
+        "dept": "History",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ruiz-Campillo, JosÃ©",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Russell, Karen",
+        "dept": "Writing",
+        "nugget": "gold"
+    },
+    {
+        "name": "Servedio, Rocco",
+        "dept": "Computer Science",
+        "nugget": "gold"
+    },
+    {
+        "name": "Shapiro, Jill",
+        "dept": "Ecology, Evolution, and Environmental Biology",
+        "nugget": "gold"
+    },
+    {
+        "name": "Shapiro, Robert",
+        "dept": "Political Science",
+        "nugget": "gold"
+    },
+    {
+        "name": "Sharpe, Leslie",
+        "dept": "Writing",
+        "nugget": "gold"
+    },
+    {
+        "name": "Shaw, Beau",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Simons, Oliver",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Smith, Molly",
+        "dept": "Visual Arts",
+        "nugget": "gold"
+    },
+    {
+        "name": "Snider, Justin",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Snyder, Scott B.",
+        "dept": "Writing",
+        "nugget": "gold"
+    },
+    {
+        "name": "Song, Sunhee",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "gold"
+    },
+    {
+        "name": "Spencer, Gordon",
+        "dept": "Physical Education",
+        "nugget": "gold"
+    },
+    {
+        "name": "Stein, Robert",
+        "dept": "English and Comparative Literature",
+        "nugget": "gold"
+    },
+    {
+        "name": "Stillman, Jamy",
+        "dept": "Education",
+        "nugget": "gold"
+    },
+    {
+        "name": "Tadiar, Neferti",
+        "dept": "Women's Studies",
+        "nugget": "gold"
+    },
+    {
+        "name": "Thomas, Colleen",
+        "dept": "Dance",
+        "nugget": "gold"
+    },
+    {
+        "name": "Torrey, Kenneth",
+        "dept": "Physical Education",
+        "nugget": "gold"
+    },
+    {
+        "name": "Trainor, Caitlin",
+        "dept": "Dance",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ubeda, Elsa",
+        "dept": "Spanish and Portuguese",
+        "nugget": "gold"
+    },
+    {
+        "name": "Valencia, Maria del Pilar",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Vallancourt, David",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Vu-Daniel, Tomas",
+        "dept": "Visual Arts",
+        "nugget": "gold"
+    },
+    {
+        "name": "Wang, Xiaodan",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "gold"
+    },
+    {
+        "name": "Watson, Mark",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Weston, Robert",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "White, Jennifer",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Williams, Gareth",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Williams, Jon",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Williams, Catherine",
+        "dept": "Mathematics",
+        "nugget": "gold"
+    },
+    {
+        "name": "Wolfe , Loren ",
+        "dept": "French",
+        "nugget": "gold"
+    },
+    {
+        "name": "Worthen, William",
+        "dept": "Theater",
+        "nugget": "gold"
+    },
+    {
+        "name": "Youell-Fingleton, Amber",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Zetzel, James",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ziegler, Garrett",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Ziolkowski, Saskia",
+        "dept": "CORE",
+        "nugget": "gold"
+    },
+    {
+        "name": "Abrams, Bradley",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Abu-El-Haj, Nadia",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Abu-Manneh, Bashir",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Adams, James",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ahmar, May",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Alberro, Alexander",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ali (al-Musawi), Muhsin",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Alonso, Carlos",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Alper, Jarod",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Alvarado-Diaz, Alheli",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Amar, Tarik",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Amaral, Jannette",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ambio, Marissa",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Amdur, Robert",
+        "dept": "Human Rights",
+        "nugget": "silver"
+    },
+    {
+        "name": "Amenoff, Gregory",
+        "dept": "Visual Arts",
+        "nugget": "silver"
+    },
+    {
+        "name": "Amir Arjomand, Ramin",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Anastas, Benjamin",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Anderer, Paul",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Anderson, Eric",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Anderson, Richard",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Andrews, Marcellus",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Applegate, Heidi",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Arce-Fernandez, Isaura",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Archer, Gail",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Arkonac, Seyhan",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Armetta, Flora",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Armstrong, Charles",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Aronson, Isaac-Davy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Attinger, Daniel",
+        "dept": "Mechanical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Auran, Elizabeth",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Aurora, Vincent",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Austin, Emily",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Autesserre, SÃ©verine",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Avery, Ellis",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Avgousti, Andreas (TA)",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Avila, Luis",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Awn, Peter",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Baggett, Gregory (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bahrani, Zainab",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Baker, Bonnie",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Baker, Steve",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bakhle, Janaki",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Balasingham, Anjali",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ballesteros, Humberto",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Balmer, Randall",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Barkey, Karen",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Barolini, Teodolinda",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Barry, Kelly",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Basker, James",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Baswell, Christopher",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bayer, David",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bazler, Corbett",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Beam, Cris",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bear, Jordan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Beardman, Stephanie",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bearman, Peter",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Becher, Deborah",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Becker, Priscilla",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bedford, Katharine",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bega, Kledja",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Belhoussein, Tarik",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Belknap, Robert",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bell, Macalester",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ben-Amor, Taoufik",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ben-Vered, Tamar",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "berenson, kathy",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Berger, Mark (TA)",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Berghahn, Volker",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Berlin, Adam",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bersohn, Nehama",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bettaieb, Rym",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bettendorf, Carl",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Betti, Raimondo",
+        "dept": "Mechanical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Betts, Richard",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bhattacharjya, Dwijen",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bickford, Tyler",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Biers, Katherine",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bininachvili, Albert",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blackmar, Elizabeth",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blaer, Allan",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blaer, Paul",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blake, Casey",
+        "dept": "American Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blount, Marcellus",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blumberg, Martha",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Blustein, Jeffrey",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Boerger, Kristina",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Boeschenstein, Eleanor",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bollinger, Lee",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Boone, Alice",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bose, Satyajit",
+        "dept": "Sustainable Development",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bowyer, Emerson",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Boyd, Brian",
+        "dept": "Archaeology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Boyman, Anne",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bozovic, Marijeta",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bradley-Kramer, Deborah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brandt, Lisbeth",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Breault, Emily",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brinkley, Alan",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brott, Alan",
+        "dept": "School of International & Public Affairs",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brown, Constance",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brown, Christopher",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Brown, Jeffrey",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Buchenholz, Chris",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Budd, Denise",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Buhle, Jason",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bulliet, Richard",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Buonanno, Elda",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Bushman, Richard",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cadden-Zimansky, Paul",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Calotychos, Vangelis",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Camara, Maguette",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cammarano, Cristina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Campos, Luis",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Canbeyli, Resit",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cannon, Adam",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carlo, Jeremy (TA)",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carman, Taylor",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carnes, Mark",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carr, Daphne",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carroll, Denise",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Carter, Jon (TA)",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Casella, Alessandra",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Castagna, Paola",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Castillo, Mauricio",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ceccagnoli, Patrizio",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chaikelson, Steven",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chaky, Damon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chalfie, Martin",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Champagne, Frances",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chandler, Tessa",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chandran, Kartik",
+        "dept": "Earth and Environmental Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chaney, Ryan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Charitos, Stephane",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chatterjee, Partha",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chaudhary, Ajay",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cheatham, Tavius",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cheetham, Joanna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Chung, Rachel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Claybaugh, Amanda",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cleary-Wolfgang, Heather",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cloutier, Jean-Christophe",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Coatsworth, John",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cobrin, Pamela",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cochran, Mary",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Coen, Deborah",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cohen, Monica",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cohen, David",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cohen, Uri",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cole, Sarah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cole, Brian",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cole, Jonathan",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cole, Michael",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Coleman, Charly",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Collins, Nancy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Collins, Michael",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Combs-Schilling, Elaine",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Como, Michael",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Conde, Maite",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Condillac, Vrinda",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Connolly, James (TA)",
+        "dept": "Urban Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Connor, Peter",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Conrad, Janet",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cooke, Roderick",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cooley, Alexander",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Costa, Kevin",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cottrell, Elizabeth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Coxe, Brinton Tench",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Craig, Angelina",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Craig-Florez, Angelina",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crain, Caleb",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crandall, Emma",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crapotta, James",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crary, Jonathan",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crawford, Julie",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cregan, Mary",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Crepon, Pascale",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cuenot, Nicole",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Currier, Sebastian",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Curtis, Gerald",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Cynn, Christine",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dailey, Patricia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Daloz, Kate",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dalton, Dennis",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Damrosch, David",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dance, Caleb",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "DaPrato, John",
+        "dept": "Speech",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dasbach, Kurt",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Daskalopoulos, Panagiota",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dauber, Jeremy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Davidson, Jenny",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Davidson, Flora",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "de Aguilar, Helene",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "De Angelis, Francesco",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "De Genova, Nicholas",
+        "dept": "Latino Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "de Groot, Wijnie",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "de la Torre, Monica",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "De Silva, Daniela",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Debaene, Vincent",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Debellis, Mark",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dehejia, Vidya",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Delbanco, Andrew",
+        "dept": "American Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Delbanco, Dawn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Deopurkar, Anand",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "DeSantis, Alicia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Deutsche, Rosalyn",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Di Gangi, Mario",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Diagne, Souleymane",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Diaz de Leon, Mario",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Diebel, Anne",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dinkins, David",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dipaolo, Daniel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "DiPentima, Matthew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dobie, Madeleine",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dodd, Jeremy",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Doerrer, Linda",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Doherty, Megan (TA)",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dohoney, Ryan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Dombrowski, Justin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Duong, Paloma",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Earle, Jason",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eden, Kathy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Edwards, Stephen",
+        "dept": "Electrical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eguchi, Shigeru",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Einbond, Aaron",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eisenbach, David",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eisenberger, Peter",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "El-Ghobashy, Mona",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "El-Hage, George",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Elmes, Susan",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Elson, David",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Emerson, Jennifer",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Emmerich, Karen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Epstein, David",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Erol, Etem",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Esch, Elizabeth",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eskin, Michael",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Estrada, Isabel",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Everson, Sharon",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eyal, Gil",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Eyuboglu, Murat",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Failla, Scott",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Falk, Leon",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Faraj, Reem",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Farnham, Barbara",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Farrell, Nathaniel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fazal, Tanisha",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fedorchuk, Maksym",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Feld, Marlon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Felder, Sidney",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Feng, Yang",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fennell, Cassie",
+        "dept": "Center for Study of Ethnicity and Race",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ferando, Christina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ferguson, Robert",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fernandez, Julio",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fewster, Kathy",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fields, Dana",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fifer, William",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fillebeen, Tauqir",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fisher, William",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Flint, Aili",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fluke, Meredith",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Folch, Marcus",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Foley, Helene",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Foner, Eric",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Forcione, Alban",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Foreman, Donlin",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Forshaw, Juliet",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fortna, Virginia Page",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fowles, Severin",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fox, Aaron",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fraga, Mariana",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Frajlich-Zajac, Anna",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Frankfurt, John",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Franze, Federica",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Franzese, Paula",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fredman, Shelly",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Freeman, Jason",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Frisch, Walter",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Frye, Timothy",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fulton, Sharon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Fung, Albert",
+        "dept": "Visual Arts",
+        "nugget": "silver"
+    },
+    {
+        "name": "Galchen, Rivka",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Galie, Jason",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gallagher, Patrick",
+        "dept": "Business",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gasparov, Boris",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gavronsky, Serge",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gennaro, Liza",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gentzler, Mason",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "George, Abosede",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gerbino, Giuseppe",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gertzog, Irwin",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ghezzo, Flora",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gibson, Lindsay",
+        "dept": "School of Journalism",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gifford, Chad",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gill, Jonathan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gill, Stuart",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gilmore, Dehn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Giordani, Marianne",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gitlin, Todd",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Giuliano, Elise",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gjelsvik, Atle",
+        "dept": "Civil Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Glasner, Kate",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Glauthier, Patrick",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Glover, Kaiama",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gluck, Carol",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Goehr, Lydia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gold, Leon",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Goldfeld, Dorian",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Goldmark, Sandra",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Golston, Michael",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gonzalez, Melissa",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Goodhart, Lucy",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gordon, Glenn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Goswami, Bidyut",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gottlieb, Stuart",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gourgouris, Stathis",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gozzi, Maria Luisa",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gravano, Luis",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gray, Ellen",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Green, Joshua",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Greene, Brooke",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Grewe, Cordula",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Grieve, Patricia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Griffin, Kevin",
+        "dept": "Ecology, Evolution, and Environmental Biology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Grimm, Erk",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Grinspun, Eitan",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gross, Jonathan",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Guibbory, Achsah",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Guida, Vanessa",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gulati, Sunil",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gullickson, Aaron",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gurman, Hannah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gurnis, Musa",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Gutfreund, Owen",
+        "dept": "Urban Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Guy, Rebecca",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Habinek, Lianne",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Haefeli, Evan",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Haider, Najam",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Halim, Ian",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hall, Andrew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hallaq, Wael",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hallowell, Sean",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hamilton, Ross",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hannaham, James",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Haringer, Andrew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Harold, Scott",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Harrigan, James",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Harris, Teresa",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Harrison, Sharon",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hart, Matthew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Harwood, Christopher",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hawley, John",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hawn, Michael Aaron",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hazen, Claire Elise",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Heinz, Tony",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Helfand, David",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Helzner, Jeffrey",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hemmasi, Farzaneh",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hemming, Sidney",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Henson, Karen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hertz, Paul",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Heuer, Larry",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Higginbotham, Derrick",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Higgins, Tory",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hirsch, Marianne",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hirschberg, Julia",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ho, Kate",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ho, Wei",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hodge, Huckleberry",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hoffman, Miriam",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hoffman, Justin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hoffmann, Sharon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hollibaugh, Lisa",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Holloway, Ralph",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Holst-Knudsen, Heidi",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hom, Jennifer",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hone, James",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hongler, Clement",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Honisch, Barbel",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hood, Donald",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Horejsi, Nicole",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Horn, Maja",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Horn, Peter",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Horowitz, Alexandra",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hu, Lingjun",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hua, Shao-Ying",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hubert-Leibler, Pascale",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Hughes, Theodore",
+        "dept": "Asian American Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Humensky, Thomas",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Huston, Megan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Huyssen, Andreas",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Iglesias , Christina ",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Irwin, Elizabeth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ivy, Marilyn",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jachiet, Alain (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jackson, Gerrit",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jacobs, Susan",
+        "dept": "Classics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jakobsen, Janet",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jenkins, Chadwick",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jimenez-Caicedo, Juan",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jin, Wen",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Johnson, Peter",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Johnson, Amy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Johnston, Kathryn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jones, Matthew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Joseph, Branden",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Jouanneau-Fertig, Isabelle",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Julia, Grigsby",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kagan, David",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kahn, Jonathon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kamaly, Hossein",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kammrath, Lara",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kampen, Natalie",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kang, Ezer",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Karatsoreos, Ilia",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Karbiener, Karen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kassanoff, Jennie",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kastan, David",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kavros, Harry",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kaye, Joel",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Keimowitz, Alison",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kelemen, Peter",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Keller, Valerie",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kelley, Darcy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kender, John",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kenny, Gale",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kent, Allegra",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kerkour, Brahim",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kesselman, Mark",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kessler-Harris, Alice",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Keyes, David",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Khaja, Jameel",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Khalidi, Rashid",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Khan, Shamus",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kia, Chad",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kim, Young",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kim, Nelson",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kimmel, Seth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kimpell, Jessica",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "King, Robert",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kitcher, Philip",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kitcher, Patricia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Klein, Holger",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Klepfisz, Irena",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Klock, Sarah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Knapp, Liza",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Knittel, Susanne",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ko, Chisu Teresa",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ko, Dorothy",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kockelman, Paul",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kogler, Aladar",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kopelman, Richard",
+        "dept": "Business",
+        "nugget": "silver"
+    },
+    {
+        "name": "Korb, Richard",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kornhaber, David",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kornhaber, Donna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kosto, Adam",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Koval, Lindsay",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Krauss, Rosalind",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Krichever, Igor",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kroeber, Karl",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kujawinski, Elizabeth",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kumar, Akash",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kutluhan, Cagatay",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Kysar, Jeffrey",
+        "dept": "Mechanical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "LaFosse, Robert",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lall, Upmanu",
+        "dept": "Earth and Environmental Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lambert, Tristan",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Landfair, Alexander",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lange, Margaret (TA)",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Laponce, Jean",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Latzko, William",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lauda, Aaron",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lawhead, Jonathan (TA)",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lazur, Sarah",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Le, Nam ",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Le Guyader, Louis",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Leach, William",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lebedev, Valentina",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lee, Johnathan",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lee, Risha",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lee, Jae",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Legvold, Robert",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Leighton, James",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Leininger, Elizabeth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "LeRoux, Colette",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Leslie, Christina",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Leung, Cheryl (TA)",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Levin, Kate",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Levin, Janna",
+        "dept": "Astronomy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Levin, Peter",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Levy, Fabien",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lewis, George",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lewis, Karen",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lexton, Ruth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Li, Feng",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lieber, Sara",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lieber, Emma",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lieberman, Robert",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lightfoot, Natasha",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lilla, Mark",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lindquist, Martin",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lipshitz, Robert",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lipsyte, Samuel",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lipyanskiy, Max",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lister, Jared",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Littlehales, Emilie",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Llovet Vila, Xavier ",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lodge, Kirsten",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Loo, Aenon",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lotringer, Sylvere",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Luker, Morgan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lupic, Ivan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lurie, David",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Lynn, Andrew",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mac Adam, Geoffrey",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "MacAdam, Alfred",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mack, Mehammed",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Macklovitch, David",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Madva, Alexander",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Maenza-Gmelch, Terryanne",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mailloux, Brian",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Main, Matthew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Maiuro, Marco",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Malkin, Tal",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mamdani, Mahmood",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mann, Gregory",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Manson, Andrew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Marcus, Sharon",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Marten, Kimberly",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Martin, Darragh",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Martinsen, Deborah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Masini, Donna",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Masone, Laura",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Massimilla, Stephen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Matin, Leonard",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Matsumura, Yoichiro",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mauel, Michael",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Maulik, Davesh",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "May, Gita",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "May, Morgan",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mazower, Mark",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "McCaskill, E'mett",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "McCaughey, Robert",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "McCormick, Tyler",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "McCoy, Marilyn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "McCrink, Koleen",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "McDermott, Rachel",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "McDuff, Dusa",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "McFeron, Donovan",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "McKenna, David",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "McLain, Carin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "McMahan, Jane",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "McManus, Jerry",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "McWhorter, John",
+        "dept": "American Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mehrling, Perry",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mehta, Linn",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Melnick, Jodi",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mendelson, Edward",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Meng, Yuan-Yuan",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mercer, Christia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Merrer, Dina",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mikdashi, Maya (TA)",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Milanich, Nara",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Milarsky, Jeffrey",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Miller, Matthew",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Miller, Monica",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Miller, Elizabeth",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Milnor, Kristina",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Milstein, Denise",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mimran, Masha",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mincek, Milan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Minnite, Lorraine",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Miron, Dan",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Misra, Gaurav",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mobbs, Dean",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Moerman, David",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Moked, Oran",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mokoena, Hlonipha",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Monk, Catherine",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Montas, Roosevelt",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Montes-Galdon, Carlos (TA)",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Moody-Adams, Michele",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Morris, Rosalind",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mosby, Ted",
+        "dept": "Underwater Basket Weaving",
+        "nugget": "silver"
+    },
+    {
+        "name": "Motyl, Irene",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mowshowitz, Solomon",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Moya, Jose",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Moyn, Samuel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Munteanu, Ovidiu",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Murail, Francoise",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Murphy, Ann Marie",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Murphy, Chris (TA)",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Murray, Stephen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Murray, Molly",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Myers, Tobias",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Myers, Kristin",
+        "dept": "Mechanical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Mylonopoulos, Ioannis",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nadasen, Premilla",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Naeem, Shahid",
+        "dept": "Ecology, Evolution, and Environmental Biology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nastri, Paola",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nayar, Shree",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nazikian, Fumiko",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neckerman, Kathryn",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neel, Robert",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neely, Evan (TA)",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neer, Robert",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neilson, Duncan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nelson, Alondra",
+        "dept": "Women's Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nepomnyashchy, Catharine",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nersessian, Anahid",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Netzer, Oded",
+        "dept": "Business",
+        "nugget": "silver"
+    },
+    {
+        "name": "Neuhouser, Frederick",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ng, Aimee",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ng, Serena",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ng, Fay",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ngai, Mae",
+        "dept": "Center for Study of Ethnicity and Race",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nieh, Jason",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nino, Nicola",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nittono, Miharu",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nocentini, Valentina",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Noe, Daniela",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "North, Samuel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Northrop, Lisa",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Norton, Jack",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Noyan, Ismail",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Nutz, Marcel",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "O'Keeffe, Brian",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "O'Meally, Robert",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "O'Neal, Jeffrey",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "O'Shea, Bethany",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Oak, Samuel",
+        "dept": "Underwater Basket Weaving",
+        "nugget": "silver"
+    },
+    {
+        "name": "Obus, Andrew",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Offill, Jennifer",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Okamoto, Keiko",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Okihiro, Gary",
+        "dept": "Center for Study of Ethnicity and Race",
+        "nugget": "silver"
+    },
+    {
+        "name": "Oliveros, Virginia (TA)",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ollivier, Rachel",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Oryshkevich, Irina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ostbye, Niels",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ouyang, Elizabeth",
+        "dept": "Center for Study of Ethnicity and Race",
+        "nugget": "silver"
+    },
+    {
+        "name": "Paerels, Frederik",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pagano, John",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Palmer, Matthew",
+        "dept": "Ecology, Evolution, and Environmental Biology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Palumbo, Patrizia",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Panourgia, Neni",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Papageorgiou, Anargyros",
+        "dept": "Computer Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pardo, Jennifer",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Parent, Joseph",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Park, So Young",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Park, Jisuk",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Parkin, Gerard",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Parsons, John",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Parsons, Coilin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pasztory, Esther",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Patterson, Joseph",
+        "dept": "Astronomy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Patterson, Julie",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Paul, Elliot",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pearlman, Elizabeth",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pechukas, Philip",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pedatella, Stefan",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pemberton, John",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pena, Richard",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pender, Terence",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "PerÃ©z Serrano, Mercedes",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Perez-Firmat, Gustavo",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Perez-Zapatero, Javier",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Perisic, Alexandra",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Peters, Julie",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Petrulis, Jason (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pfeiffer, Douglas",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pfirman, Stephanie",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pflugfelder, Gregory",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Phillips, Justin",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Piechnik, Lindsay",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pinsky, Anatoly",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pinto, Pablo",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pious, Richard",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Platt, Peter",
+        "dept": "Urban Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Platt, Jonathan",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pok, Attila",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Polvani, Lorenzo",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Popkin, Cathy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Popoff, Gabrielle",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Post, Olaf",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Postlewate, Laurie",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Povinelli, Elizabeth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Powell, Amy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Powell, Olivia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Prakash, Amit",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Prescott, Anne",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Prettyman, Quandra",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Proudfoot, Wayne",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Pugin, Thibaut",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Qi, Shaoyan",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Queuniet, Sophie",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Racaniello, Vincent",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rafaeli, Eshkol",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rajpurohit, Dalpat",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rao, Anupama",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Raphael, Stuart",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ratner, Anna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Reddy, Sanjay",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Reis, Ricardo",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Reyfman, Irina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Reynolds, Jonathan",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Richard, Frances",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rick, Jonathan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rieder, Jonathan",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Riggs, Kristy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Riskin, Carl",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rivers Ryan, Tina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Robbins, Bruce",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Robinson, Lucy",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rodas, Lorena",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rojas, Christian",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Roland, Sarah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Roma, Thomas",
+        "dept": "Visual Arts",
+        "nugget": "silver"
+    },
+    {
+        "name": "Romeo, Russell",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Romero, Patricia",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Romero, Diana",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosalia, Luci",
+        "dept": "Physical Education",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosario, Nelly",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rose, Louise",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosen, Margo",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosenberg, Rosalind",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosenberg, John",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosenblum, Harry",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosenthal, Jennifer",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosner, Victoria",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rosner, David",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rouhe, Todd",
+        "dept": "Architecture",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rozencvaig, Perla",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Rubin, Zipora",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Runsdorf, James",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Russo, Alessandra",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Saada, Emmanuelle",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sachs, Jeffrey",
+        "dept": "Sustainable Development",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sacks, Richard",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sala-i-Martin, Xavier",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Salinas, Edgardo",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Saltzman, Shelley",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Salvo, Arthur",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Salyer, John",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Saumaa, Hiie",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Savin, Ovidiu",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schamus, James",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scharf, Caleb",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scharffenberger, Elizabeth",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schiminovich, David",
+        "dept": "Astronomy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schirokauer, Conrad",
+        "dept": "Asian American Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schmeder, Maximillian",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schmiers-Heller, Jutta",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schmitt-Grohe, Stephanie",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schor-Haim, Wendy",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schwartz, Selby",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Schwartzman, Madeline",
+        "dept": "Architecture",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scolieri, Paul",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scott, David",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scott, Stephen",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Scutts, Joanna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Seidel, Michael",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Senghas, Ann",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Senocak, Neslihan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sesum, Natasa",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sethi, Rajiv",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shaevitz, Michael",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shaklan, Steven",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shang, Wei",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shapiro, James",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sharpe, Matthew",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shatz, David",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sheffield, Allyson",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shelley, Nathanael",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shepard, Kristen",
+        "dept": "Biology & Biomedical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shevchuk, Yuri",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shi, Zhongqi",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Shortslef, Emily",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Siegel, Erica",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Siegel, Paul",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Siemon, Julia",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sigman, Karl",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Silva, Cristobal",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sisman, Elaine",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Skelly, Michael",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Skippon, Samuel",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Slaughter, Joseph",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Smith, Joanna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Smith, Kathleen",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Smoliarova, Tatiana",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Smyslova, Alla",
+        "dept": "Slavic Languages",
+        "nugget": "silver"
+    },
+    {
+        "name": "Snyder, Scott",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Snyder, Jeffrey",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "So, Richard",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sobel, Adam",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Soloski, Alexis",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Somerville, Robert",
+        "dept": "Religion",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sooudi, Roxanna",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Soper, Katharine",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Soskis, Ben (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sparrow, Betsy",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Spiegelman, Marc",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Spinelli, Barbara",
+        "dept": "Italian",
+        "nugget": "silver"
+    },
+    {
+        "name": "Spinner, Samuel",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Spooner, Matthew (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stalnaker, Joanna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stanig, Piero (TA)",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stanton, Rebecca",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stanton, Jessica (TA)",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stark, David",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stein, Elliott",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Steiner, Deborah",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Steinsson, Jon",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stephens, Paul",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sterritt, David",
+        "dept": "Film",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stokes, Patricia",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stokes, Shilarna",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stormer, Horst",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Strickland, Dawn",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stroessner, Steven",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Stute, Martin",
+        "dept": "Earth and Environmental Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Suarez-Garcia, Jesus",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Sultan, Harold",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Susik, Abigail (TA)",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Susser, Peter",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Szell, Timea",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tai, Xiaoxi",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Takayoshi, Ichiro",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tamas, Bernard",
+        "dept": "Political Science",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tan, Qiuyu",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tarantino, Todd",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tawil, Ezra",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tayler, Edward",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thaddeus, Michael",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thames, Susan",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thomas, Robert S. (TA)",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thomas, Robin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thomas, Andrea",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Thompson, Erin",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tiersten, Lisa",
+        "dept": "Art History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tobier, Zoe (TA)",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tomas, Antonio (TA)",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tosatti, Valentino",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tsividis, Yannis",
+        "dept": "Electrical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tuts, Michael",
+        "dept": "Physics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Tzotzkova, Victoria",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Uden, James",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ulichny, Joseph (TA)",
+        "dept": "Chemistry and Chemical Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Underwood, Katherine",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Urban, Isabelle",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Uribe, Martin",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Usher, Phillip",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vagnerova, Lucie",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vaidean, Simona",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vail, Margaret",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Valenze, Deborah",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Valero, Mario",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Van Dyck, Karen",
+        "dept": "Classics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vandenburg, Margaret",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Varzi, Achille",
+        "dept": "Philosophy",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vaughan, Diane",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ventilla, Melanie",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Viereck-Hunter, Christina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vila, Xavier",
+        "dept": "Spanish and Portuguese",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vintila, Vlad",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Violi, Paul",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Viswanathan, Gauri",
+        "dept": "English and Comparative Literature",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vogt, Katja",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Volk, Katharina",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "von Mucke, Dorothea",
+        "dept": "Germanic Languages and Literature  ",
+        "nugget": "silver"
+    },
+    {
+        "name": "von Ostenfeld, Kira",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Vydrin, Eugene",
+        "dept": "First-Year Seminars",
+        "nugget": "silver"
+    },
+    {
+        "name": "Waisman, Haim",
+        "dept": "Civil Engineering",
+        "nugget": "silver"
+    },
+    {
+        "name": "Walden, Joshua",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Walls, Charles",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wamsler, Caroline",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wang, Zhirong",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wang, Mu-Tao",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wang, Feng",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wang, Jian",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Warren, Dorian",
+        "dept": "School of International & Public Affairs",
+        "nugget": "silver"
+    },
+    {
+        "name": "Washburne, Christopher",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Watts, Duncan",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Watts, Philip",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Webel, Mari (TA)",
+        "dept": "History",
+        "nugget": "silver"
+    },
+    {
+        "name": "Weber, Caroline",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Webster, Anthony",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Weinfield, Paul",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Weinig, Sheldon",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Weinstein, David",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Weiss, Christopher",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "West, Paige",
+        "dept": "Anthropology",
+        "nugget": "silver"
+    },
+    {
+        "name": "White, Veronica",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Whitford, Josh",
+        "dept": "Sociology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wiggins, Chris",
+        "dept": "Applied Physics and Applied Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wilke, Tobias",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Williams, Tyler",
+        "dept": "Middle Eastern, South Asian, and African Studies",
+        "nugget": "silver"
+    },
+    {
+        "name": "Williams, Christopher",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wills, Steve (TA)",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Winter, Emma",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Winter, Meaghan",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wirkala, Clarice",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wolfangle, Karla",
+        "dept": "Dance",
+        "nugget": "silver"
+    },
+    {
+        "name": "Woo, Eliza",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wood, Christopher",
+        "dept": "French",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wood, Frank",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Woodard, Leslie",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Woodbury, Michael",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Woon, Yvonne",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Workman, Nancy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Worman, Nancy",
+        "dept": "Classics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wortman, Richard",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wu, Chen",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Wubbels, Eric",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yan, Xin",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yan, Ling",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yang, Alan",
+        "dept": "School of International & Public Affairs",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yao, David",
+        "dept": "Industrial Engineering and Operations Research",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yeung, Alan",
+        "dept": "Underwater Basket Weaving",
+        "nugget": "silver"
+    },
+    {
+        "name": "Yi, Hyunkyu",
+        "dept": "East-Asian Languages and Cultures",
+        "nugget": "silver"
+    },
+    {
+        "name": "Youker, Timothy",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zahner, Doris",
+        "dept": "Psychology",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zarghamee, Homa",
+        "dept": "Economics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zarrillo, Taryn",
+        "dept": "CORE",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zeitlin, Anton",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zhang, Wei",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zhang, Xiangwen",
+        "dept": "Mathematics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zheng, Tian",
+        "dept": "Statistics",
+        "nugget": "silver"
+    },
+    {
+        "name": "Ziegler, Alan",
+        "dept": "Writing",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zimerli, Patrick",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zimmerli, Patrick",
+        "dept": "Music",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zito, Ralph",
+        "dept": "Theater",
+        "nugget": "silver"
+    },
+    {
+        "name": "Zukowski, Charles",
+        "dept": "Electrical Engineering",
+        "nugget": "silver"
+    }
+]

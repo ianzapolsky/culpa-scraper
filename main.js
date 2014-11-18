@@ -15,4 +15,3 @@ culpaScraper.getBestProfessorsByDepartment(dept, function(bestProfs) {
   });
 });
 
-
