@@ -1,6 +1,6 @@
 var fs           = require('fs');
-var culpaScraper = require('./scrapers/culpa-scraper');
-var filename     = './bestProfs.json';
+var culpaScraper = require('./culpa-scraper');
+var filename     = __dirname + '/bestProfs.json';
 
 culpaScraper.getBestProfessors(true, function(bestProfs) {
   fs.writeFile(filename, JSON.stringify(bestProfs, null, 4), function(err) {

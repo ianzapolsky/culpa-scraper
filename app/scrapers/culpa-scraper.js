@@ -10,7 +10,7 @@ var culpaSilverUrl = 'http://culpa.info/professors/silver_nuggets?page=';
 
 // call callback with a list of gold and silver nugget professors and their departments
 module.exports.getBestProfessors = function(force, callback) {
-  var filename = 'bestProfs.json';
+  var filename = __dirname + '/bestProfs.json';
   var bestProfessors = []
   var _this = this;
   
