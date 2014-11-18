@@ -2,8 +2,7 @@ define([
   'jquery',
   'underscore',
   'backbone',
-  '../models/professor'
-], function($, _, Backbone, ProfessorModel) {
+], function($, _, Backbone) {
   
   var App = Backbone.View.extend({
 
