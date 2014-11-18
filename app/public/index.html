@@ -1,24 +1,111 @@
 <!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>best professors CU</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
 
   <body>
-    <h1>Find the best courses, taught by the best professors</h1>
-    <h5>Surprisingly, there is no easy way to see all the classes that are being taught in the coming semester by gold and silver nugget professors on CULPA. This site intends to change that.</h5>
+    <div class="container" id="appcontainer">
+      <h1>Find the best courses, taught by the best professors</h1>
+      <h5>Surprisingly, there is no easy way to see all the classes that are being taught in the coming semester by gold and silver nugget professors on CULPA. This site intends to change that.</h5>
 
-    <form>
-      <select name="term">
-        <option value="Spring 2015">Spring 2015</option>
-      </select>
-    
-      <select name="dept">
-        <option value="CORE">CORE</option>
-        <option value="Anthropology">Anthropology</option>
-      </select>
+      <form>
+        <select id="term" name="term">
+          <option value="Spring 2015">Spring 2015</option>
+        </select>
+      
+        <select id="dept" name="dept">
+          <option value="CORE">CORE</option>
+          <option value="Anthropology">Anthropology</option>
+          <option value="African American Studies">African American Studies</option>
+          <option value="Applied Physics and Applied Math">Applied Physics and Applied Math</option>
+          <option value="Archaeology">Archaeology</option>
+          <option value="Architecture">Architecture</option>
+          <option value="Art History">CORE</option>
+          <option value="Asian-American Studies">Asian-American Studies</option>
+          <option value="Biology and Biomedical Engineering">Biology and Biomedical Engineering</option>
+          <option value="Business">Business</option>
+          <option value="Chemistry and Chemical Engineering">Chemistry and Chemical Engineering</option>
+          <option value="Civil Engineering">Civil Engineering</option>
+          <option value="Classics">Classics</option>
+          <option value="Computer Science">Computer Science</option>
+          <option value="Dance">Dance</option>
+          <option value="Earth and Environmental Engineering">Earth and Environmental Engineering</option>
+          <option value="Earth and Environmental Science">Earth and Environmental Science</option>
+          <option value="East-Asian Languages and Cultures">East-Asian Languages and Cultures</option>
+          <option value="Ecology, Evolution, and Environmental Biology">Ecology, Evolution, and Environmental Biology</option>
+          <option value="Economics">Economics</option>
+          <option value="Education">Education</option>
+          <option value="Electrical Engineering">Electrical Engineering</option>
+          <option value="English and Comparative Literature">English and Comparative Literature</option>
+          <option value="Film">Film</option>
+          <option value="French">French</option>
+          <option value="Germanic Languages">Germanic Languages</option>
+          <option value="History">History</option>
+          <option value="Human Rights">Human Rights</option>
+          <option value="Industrial Engineering and Operations Research">Industrial Engineering and Operations Research</option>
+          <option value="Italian">Italian</option>
+          <option value="Latino Studies">Latino Studies</option>
+          <option value="Math">Math</option>
+          <option value="Mechanical Engineering">Mechanical Engineering</option>
+          <option value="Middle Eastern, South Asian, and African Studies">Middle Eastern Studies</option>
+          <option value="Music">Music</option>
+          <option value="First-Year Seminars">First-Year Seminars</option>
+          <option value="Philosophy">Philosophy</option>
+          <option value="Physical Education">Physical Education</option>
+          <option value="Physics">Physics</option>
+          <option value="Political Science">Political Science</option>
+          <option value="Psychology">Psychology</option>
+          <option value="Religion">Religion</option>
+          <option value="Slavic Languages">Slavic Languages</option>
+          <option value="Sociology">Sociology</option>
+          <option value="Spanish and Portuguese">Spanish and Portuguese</option>
+          <option value="Speech">Speech</option>
+          <option value="Statistics">Statistics</option>
+          <option value="Swedish">Swedish</option>
+          <option value="Theater">Theater</option>
+          <option value="Urban Studies">Urban Studies</option>
+          <option value="Visual Arts">Visual Arts</option>
+          <option value="Women's Studies">Women's Studies</option>
+          <option value="Writing">Writing</option>
+          <option value="Journalism">Journalism</option>
+          <option value="Sustainable Development">Sustainable Development</option>
+        </select>
 
-      <input id="form-submit" type="submit" value="Submit">
-    </form>
+        <input id="form-submit" type="submit" value="Submit">
+      </form>
 
-    <script src="site.js">
+      <div id="results">
+      </div>
 
+      <script type="text/template" id="professors-template">
+        <% _.each(Professors, function(Prof) { %>
+          <div class="professor">
+            <h4><%= Prof.name %> (<%= Prof.nugget %> nugget)</h4>
+            <ul>
+              <% if (Prof.courses.length === 0) { %>
+                <li>No courses</li>
+              <% } else { %>
+                <% _.each(Prof.courses, function(Course) { %>
+                  <li><%= Course.title %></li>
+                  <ul>
+                    <li><%= Course.description %></li>
+                  </ul>
+                <% }); %>
+              <% } %>
+            </ul>
+          </div>
+        <% }); %>
+      </script>
+      
+    </div>
+
+    <script data-main="scripts/main.js" src="scripts/vendor/requirejs/require.js"></script>
   </body>
 
 </html>

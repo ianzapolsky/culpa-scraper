@@ -2,7 +2,7 @@ var express = require('express');
 var app     = express();
 var router  = express.Router();
 
-var professorController = require('./controllers/professors-controller');
+var professorController = require('./controllers/professor-controller');
 
 router.route('/courses/:term/:dept')
   .get(function(req, res) {
