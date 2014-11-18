@@ -82,9 +82,20 @@ module.exports.getSilverProfessors = function(callback) {
 // return a list of professors filtered by department
 module.exports.filterByDepartment = function(profList, dept) {
   var filteredProfs = profList.filter(function(prof) {
-    return prof.dept.toUpperCase() === dept.toUpperCase();
+    return prof.dept.toUpperCase().indexOf(dept.toUpperCase()) !== -1; 
   });
   return filteredProfs;
+};
+
+
+/**
+ * Get all the silver and gold nugget professors in a given department.
+ */
+module.exports.getBestProfessorsByDepartment = function(dept, callback) {
+  var _this = this;
+  _this.getBestProfessors(function(bestProfs) {
+    callback(_this.filterByDepartment(bestProfs, dept));
+  });
 };
 
         

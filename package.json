@@ -1,7 +1,7 @@
 {
   "name"    : "culpa-scraper",
   "version" : "0.0.1",
-  "main"    : "scraper.js",
+  "main"    : "main.js",
   "author"  : "ianzapolsky",
   "dependencies" : {
     "request" : "latest",
