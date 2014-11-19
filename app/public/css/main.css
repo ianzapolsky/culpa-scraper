@@ -11,3 +11,10 @@ body {
   margin: 15px 0px;
 }
 
+select {
+  font-size: 16px;
+}
+
+input[type="submit"] {
+  font-size: 16px;
+}

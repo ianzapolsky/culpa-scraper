@@ -18,6 +18,7 @@ define([
 
     handleSubmit: function( ev ) {
       event.preventDefault();
+      $('#results').html('<div class=professor"><p>Loading ...</p></div>');
       var term = $('#term').val();
       var dept = $('#dept').val();
       var url  = '/api/courses/' + term + '/' + dept;
