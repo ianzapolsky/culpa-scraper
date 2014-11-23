@@ -21,4 +21,19 @@ module.exports.getProfessorCoursesByTermAndDepartment = function(term, dept, cal
   });
 };
 
-  
+module.exports.getProfessorCoursesByTermAndProfessor = function(term, prof, callback) {
+  var professors = [];
+  var professor = {
+    "name": prof
+  };
+
+  // search for courses taught by professor
+  bulletinScraper.getSearchResults(term, professor.name, function(courses) {
+    professor.courses = courses;
+    professors.push(professor);
+    callback(professors);
+  });
+};
+
+
+
