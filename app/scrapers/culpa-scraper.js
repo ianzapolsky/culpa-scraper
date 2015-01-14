@@ -8,7 +8,11 @@ var culpaGoldUrl = 'http://culpa.info/gold_nuggets';
 // culpa silver nuggets
 var culpaSilverUrl = 'http://culpa.info/professors/silver_nuggets?page=';
 
-// call callback with a list of gold and silver nugget professors and their departments
+/**
+ * Calls callback with a list of gold and silver nugget professors off CULPA.
+ * If called with force parameter equal to "true," this method will get the data from the actual CULPA website.
+ * If called with force paramteer equal to "false," this method will use a cached copy in ./bestProfs.json.
+ */
 module.exports.getBestProfessors = function(force, callback) {
   var filename = __dirname + '/bestProfs.json';
   var bestProfessors = []
@@ -18,6 +22,11 @@ module.exports.getBestProfessors = function(force, callback) {
     if (!err && !force) {
       console.log('reading from ' + filename);
       bestProfessors = JSON.parse(data);
+      // add professor first_name and last_name fields
+      bestProfessors.forEach(function(prof) {
+        prof.first_name = prof.name.split(' ')[1]
+        prof.last_name = prof.name.split(' ')[0].substring(0, prof.name.split(' ')[0].length - 1);
+      });
       callback(bestProfessors);
       return;
     } else {
@@ -30,6 +39,11 @@ module.exports.getBestProfessors = function(force, callback) {
             bestProfessors.push(goldProfs[i]);   
           for (var i = 0; i < silverProfs.length; i++)
             bestProfessors.push(silverProfs[i]);
+          // add professor first_name and last_name fields
+          bestProfessors.forEach(function(prof) {
+            prof.first_name = prof.name.split(' ')[1]
+            prof.last_name = prof.name.split(' ')[0].substring(0, prof.name.split(' ')[0].length - 1);
+          });
           callback(bestProfessors);
         });
       });

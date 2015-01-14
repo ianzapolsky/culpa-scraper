@@ -4,6 +4,7 @@
   "main"    : "main.js",
   "author"  : "ianzapolsky",
   "dependencies" : {
+    "async"   : "latest",
     "cheerio" : "latest",
     "express" : "latest",
     "request" : "latest"
