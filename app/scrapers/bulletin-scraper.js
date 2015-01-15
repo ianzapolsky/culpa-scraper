@@ -23,6 +23,7 @@ module.exports.getSearchResults = function(termPredicate, query, callback) {
           var course = {
             "title": title,
             "description": description,
+            "course_name": description.substring(0, description.indexOf(';')),
             "bulletin_link": description.split(' ')[description.split(' ').length - 3]
           };
           courses.push(course);
